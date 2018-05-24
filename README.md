@@ -1,0 +1,2 @@
+# learn
+GPU Detection Application
